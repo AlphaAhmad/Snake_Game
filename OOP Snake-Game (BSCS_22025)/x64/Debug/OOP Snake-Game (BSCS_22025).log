@@ -1,0 +1,4 @@
+﻿  bscs22025-project-1-main.cpp
+C:\Users\Muhammad Ahmad\Desktop\Visual studio storage\OOP Snake-Game (BSCS_22025)\bscs22025-project-1-main.cpp(1083,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Muhammad Ahmad\Desktop\Visual studio storage\OOP Snake-Game (BSCS_22025)\bscs22025-project-1-main.cpp(1098,9): warning C4101: 'garbage': unreferenced local variable
+  OOP Snake-Game (BSCS_22025).vcxproj -> C:\Users\Muhammad Ahmad\Desktop\Visual studio storage\OOP Snake-Game (BSCS_22025)\x64\Debug\OOP Snake-Game (BSCS_22025).exe
